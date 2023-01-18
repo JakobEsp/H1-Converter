@@ -3,3 +3,18 @@ C:\H1TEC\H1-Converter\obj\Debug\net6.0\H1-Converter.GeneratedMSBuildEditorConfig
 C:\H1TEC\H1-Converter\obj\Debug\net6.0\H1-Converter.AssemblyInfoInputs.cache
 C:\H1TEC\H1-Converter\obj\Debug\net6.0\H1-Converter.AssemblyInfo.cs
 C:\H1TEC\H1-Converter\obj\Debug\net6.0\H1-Converter.csproj.CoreCompileInputs.cache
+D:\Github Repo's\H1\H1-Converter\bin\Debug\net6.0\H1-Converter.exe
+D:\Github Repo's\H1\H1-Converter\bin\Debug\net6.0\H1-Converter.deps.json
+D:\Github Repo's\H1\H1-Converter\bin\Debug\net6.0\H1-Converter.runtimeconfig.json
+D:\Github Repo's\H1\H1-Converter\bin\Debug\net6.0\H1-Converter.dll
+D:\Github Repo's\H1\H1-Converter\bin\Debug\net6.0\H1-Converter.pdb
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.csproj.AssemblyReference.cache
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.AssemblyInfoInputs.cache
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.AssemblyInfo.cs
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.csproj.CoreCompileInputs.cache
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.dll
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\refint\H1-Converter.dll
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.pdb
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\H1-Converter.genruntimeconfig.cache
+D:\Github Repo's\H1\H1-Converter\obj\Debug\net6.0\ref\H1-Converter.dll
